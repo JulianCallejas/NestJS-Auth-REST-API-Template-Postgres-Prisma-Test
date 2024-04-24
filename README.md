@@ -42,4 +42,4 @@ You can access the test results at [**`NestJS Auth REST API Template PostgreSQL 
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
-## 🌟 You’re the superstar of our show! Thanks for lighting up our repository with your presence. We hope you enjoy exploring our code as much as we enjoyed writing it.
+#### 🌟 You’re the superstar of our show! Thanks for lighting up our repository with your presence. We hope you enjoy exploring our code as much as we enjoyed writing it.
