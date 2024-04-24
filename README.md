@@ -1,5 +1,5 @@
 # NestJS Auth REST API Template Test Report
-Welcome to the GitHub repository for the test results of the **`NestJS Auth REST API Template`** with Postgres and Prisma ORM. This repository hosts a static HTML page that displays the results of our comprehensive Postman tests.
+Welcome to the GitHub repository for the test results of the [**`NestJS Auth REST API Template`**](https://github.com/JulianCallejas/NestJS-Auth-REST-API-PostgreSQL-Prisma-Template) with Postgres and Prisma ORM. This repository hosts a static HTML page that displays the results of our comprehensive Postman tests.
 [**`NestJS Auth REST API Template PostgreSQL Prisma Tests`**](https://juliancallejas.github.io/NestJS-Auth-REST-API-Template-Postgres-Prisma-Test/)
 
 ## About the API **`NestJS Auth REST API Template`**
@@ -31,7 +31,7 @@ This **`NestJS Auth REST API Template`** is designed to jumpstart your developme
 
 ## About the Tests
 
-The tests for the **`NestJS Auth REST API Template`** are conducted using Postman, a powerful tool for API development. Our Postman collection includes about **160 tests** that cover all the API endpoints, validating the functionality and robustness of the API, you can access the Postman Test Collecton at [**`NestJS Auth REST API Template Postman Test Collection`**](https://www.postman.com/jc-develop/workspace/nest-auth-rest-apis/documentation/22997111-7ae8198b-97f8-4e01-9830-77dd1e10088b)
+The tests for the [**`NestJS Auth REST API Template`**](https://github.com/JulianCallejas/NestJS-Auth-REST-API-PostgreSQL-Prisma-Template) are conducted using Postman, a powerful tool for API development. Our Postman collection includes about **160 tests** that cover all the API endpoints, validating the functionality and robustness of the API, you can access the Postman Test Collecton at [**`NestJS Auth REST API Template Postman Test Collection`**](https://www.postman.com/jc-develop/workspace/nest-auth-rest-apis/documentation/22997111-7ae8198b-97f8-4e01-9830-77dd1e10088b)
 
 ## Test Results
 
@@ -40,6 +40,6 @@ You can access the test results at [**`NestJS Auth REST API Template PostgreSQL 
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+This project is licensed under the MIT License.
 
 #### 🌟 You’re the superstar of our show! Thanks for lighting up our repository with your presence. We hope you enjoy exploring our code as much as we enjoyed writing it.
